@@ -15,9 +15,9 @@
   "dependencies": {
     "vant-weapp": "^0.5.23"
   },
-  "homepage": "https://github.com/StellaYangF/jg007/blob/master/10.npm/xj-weapp/README.md",
+  "homepage": "https://github.com/StellaYangF/xj-weapp/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StellaYangF/jg007/tree/master/10.npm/xj-weapp"
+    "url": " https://github.com/StellaYangF/xj-weapp.git"
   }
 }
