@@ -1,0 +1,23 @@
+{
+  "name": "xj-weapp",
+  "version": "1.0.1",
+  "description": "Weixin Miniprogram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xj-weapp": "./bin/www"
+  },
+  "author": "Stella",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "vant-weapp": "^0.5.23"
+  },
+  "homepage": "https://github.com/StellaYangF/jg007/blob/master/10.npm/xj-weapp/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StellaYangF/jg007/tree/master/10.npm/xj-weapp"
+  }
+}
